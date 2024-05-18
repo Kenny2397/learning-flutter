@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:initial/presentation/screens/counter/counter_functions_screen.dart';
+import 'package:flutter_initial/presentation/screens/counter/counter_functions_screen.dart';
 
 void main() {
   runApp(const MyApp());
